@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="item_name">Название элемента</string>
+    <string name="image_icon_desc">Иконка элемента</string>
+
+    <string name="fragment_user_text">Это пользователь</string>
+    <string name="fragment_product_text">Это продукт</string>
+
+    <string-array name="drawer_items">
+        <item>Пользователи</item>
+        <item>Продукты</item>
+    </string-array>
+</resources>
