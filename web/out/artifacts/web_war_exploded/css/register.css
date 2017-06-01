@@ -1,0 +1,103 @@
+.title_block{
+    background: #ff6a00
+}
+
+.block{
+    height: 100%;
+}
+
+#categories_block_left{
+    float:left;
+    margin-left: 200px;
+    width: 10%;
+    padding: 10px;
+}
+
+
+input[type="checkbox"]{
+    margin-left: -14px;
+	padding-left: 25px;
+}
+
+.reg, log, games{
+    
+    margin:0px 0px 25px 500px;
+    width: 25%;
+}
+
+.prof{
+    margin:0px 0px 25px 200px;
+    width: 25%;
+}
+
+.prof h2{
+        font: 14px Verdana, Geneva, sans-serif;
+        float:right;
+}
+
+.submit{
+    height: 30px;
+}
+
+.product-index h2 {
+    font: 14px Verdana, Geneva, sans-serif;
+    color: #2b8aba;
+    margin: 0 0 10px 0;
+}
+.product-index	{
+            flex-direction: row;
+            justify-content: flex-start;
+            padding: 20px;
+            width:50%;
+            display: flex;
+            margin: 25px 20px 25px 670px;
+			}	
+
+.product-index h2 a	{
+					color:#2b8aba;
+					}
+    .product-index h2 a:hover {
+        text-decoration: none;
+    }
+
+.product-index p {
+    font: bold 12px Verdana, Geneva, sans-serif;
+    margin: 0 0 10px 0;
+}
+
+    .product-index p span {
+        font: 30px Candara;
+    } 	
+
+    .addtocard-index{
+        margin: 50px 0 0px -8px;
+    }
+
+    hr{
+    border: none; /* Убираем границу */
+    background-color: grey; /* Цвет линии */
+    margin-left: 500px;
+    height: 1.5px; /* Толщина линии */
+    width:800px;
+    }
+
+.basket{
+    
+    margin: -90px 0 0 740px;
+    width: 20%;
+}
+
+td h2{
+    text-align: center;
+    border: 1.4px solid;  
+}
+
+#buy, #delete{
+    width:30px;
+    height:30px;
+}
+
+#view{
+    width: 40px;
+    height: 40px;
+}
